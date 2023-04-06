@@ -14,8 +14,8 @@ def main():
     today = datetime.datetime.today().weekday()
 
     # Set the email account credentials
-    username = "knwy@ymail.com"
-    password = "kygyaltyvzeyqhvm"
+    username = "email"
+    password = "passowrd"
 
     # Set the email search criteria
     sender = "jobs.uk@cloudworkers.company"
